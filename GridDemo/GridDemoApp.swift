@@ -2,7 +2,7 @@
 //  GridDemoApp.swift
 //  GridDemo
 //
-//  Created by renupunjabi on 6/11/23.
+//  Created by Syed Raza on 6/11/23.
 //
 
 import SwiftUI
